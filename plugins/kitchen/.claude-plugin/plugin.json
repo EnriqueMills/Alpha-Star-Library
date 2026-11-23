@@ -1,0 +1,6 @@
+{
+  "name": "kitchen",
+  "version": "0.1.0",
+  "author": { "name": "EnriqueMills" },
+  "description": "A Chef Agent and a meal-planning Skill for planning weekly meals and shopping lists."
+}

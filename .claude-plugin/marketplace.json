@@ -1,0 +1,14 @@
+{
+  "name": "alpha-star-library",
+  "owner": { "name": "EnriqueMills" },
+  "metadata": {
+    "description": "Shared Skills and Agents for Alpha-Star, the Mills AI Collaboration Platform."
+  },
+  "plugins": [
+    {
+      "name": "kitchen",
+      "source": "./plugins/kitchen",
+      "description": "A Chef Agent and a meal-planning Skill for planning weekly meals and shopping lists."
+    }
+  ]
+}
